@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import logogo from './logo-go.png'
+import logo from './logo-MGabriel.png';
+import logogo from './logo-MIrineu.png'
 import './App.css';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logogo} className="App-logo" alt="logo" />
         <h1>
-          Personalidades
+          Personalidades da Doutrina
         </h1>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
